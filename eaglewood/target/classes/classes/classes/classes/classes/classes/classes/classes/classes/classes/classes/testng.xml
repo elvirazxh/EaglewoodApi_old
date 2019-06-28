@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<suite name="接口测试套件">
+
+    <test name="接口测试用例">
+        <classes>
+            <class name="com.tester.cases.TransferTest">
+                <methods>
+                    <include name="testTransfer"/>
+                </methods>
+            </class>
+        </classes>
+
+
+
+    </test>
+
+    <listeners>
+        <listener class-name="com.tester.config.ExtentTestNGIReporterListener" />
+    </listeners>
+
+</suite>

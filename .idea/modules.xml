@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EaglewoodApi.iml" filepath="$PROJECT_DIR$/EaglewoodApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eaglewood/eaglewood.iml" filepath="$PROJECT_DIR$/eaglewood/eaglewood.iml" />
+    </modules>
+  </component>
+</project>
