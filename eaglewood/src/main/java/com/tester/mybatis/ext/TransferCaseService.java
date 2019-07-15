@@ -194,7 +194,7 @@ public class TransferCaseService {
 //        Transfercase transfercase = new Transfercase();
 //        transfercase.setId("transfer"+ UUID.randomUUID().toString().replace("-", "").toLowerCase());
 //        transfercase.setParamjson(paramStr);
-//        transfercase.setResultjson(resultStr);
+//        transfeautoWiringServicercase.setResultjson(resultStr);
 //        transfercase.setExcept(expect);
 //        transfercase.setCreateTime(new Date());
 //

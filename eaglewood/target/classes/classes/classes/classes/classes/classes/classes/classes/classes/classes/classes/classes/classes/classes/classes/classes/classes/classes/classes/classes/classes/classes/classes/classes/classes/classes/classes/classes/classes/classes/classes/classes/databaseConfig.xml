@@ -20,6 +20,6 @@
     </environments>
     <!-- 注册映射文件：java对象与数据库之间的xml文件路径！ -->
     <mappers>
-        <mapper resource="/Users/admin/Documents/workspace/svn/newsettle/yisecpay/branches/EaglewoodApi/eaglewood/src/main/resources/mapper/TransfercaseMapper.xml"/>
+        <mapper resource="mapper/TransfercaseMapper.xml"/>
     </mappers>
 </configuration>

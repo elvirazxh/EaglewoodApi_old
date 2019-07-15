@@ -24,5 +24,18 @@
       "versionNo":"2.00",
       "serviceId":"transfer",
       "signType":"rsa"
-    }
+    },
+  {
+    "bizType":"01",
+    "txnType":"24",
+    "payExAccNo":"0011562100000000031693102",
+    "recvExAccNo":"0011562100000000020967201",
+    "amount":"0.02",
+    "feeAmt":"0.01",
+    "encryptMode":"00",
+    "extend1":"转账接口测试",
+    "versionNo":"2.00",
+    "serviceId":"transfer",
+    "signType":"rsa"
+  }
   ]
